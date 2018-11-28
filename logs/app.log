@@ -1,0 +1,12 @@
+[ TRACE ] 2018-11-28 13:44:42.205 [main:250] [MyLog4j2.java:11] - trace level
+[ DEBUG ] 2018-11-28 13:44:42.211 [main:256] [MyLog4j2.java:12] - debug level
+[ INFO  ] 2018-11-28 13:44:42.211 [main:256] [MyLog4j2.java:13] - info level
+[ WARN  ] 2018-11-28 13:44:42.211 [main:256] [MyLog4j2.java:14] - warn level
+[ ERROR ] 2018-11-28 13:44:42.211 [main:256] [MyLog4j2.java:15] - error level
+[ FATAL ] 2018-11-28 13:44:42.211 [main:256] [MyLog4j2.java:16] - fatal level
+[ TRACE ] 2018-11-28 13:44:43.107 [main:251] [MyLog4j2.java:11] - trace level
+[ DEBUG ] 2018-11-28 13:44:43.108 [main:252] [MyLog4j2.java:12] - debug level
+[ INFO  ] 2018-11-28 13:44:43.109 [main:253] [MyLog4j2.java:13] - info level
+[ WARN  ] 2018-11-28 13:44:43.109 [main:253] [MyLog4j2.java:14] - warn level
+[ ERROR ] 2018-11-28 13:44:43.109 [main:253] [MyLog4j2.java:15] - error level
+[ FATAL ] 2018-11-28 13:44:43.109 [main:253] [MyLog4j2.java:16] - fatal level
